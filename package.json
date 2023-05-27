@@ -1,14 +1,14 @@
 {
-  "name": "url-sniper",
+  "name": "url-guard",
   "version": "1.0.0",
-  "description": "URL Sniper botu.",
+  "description": "URL guard botu.",
   "main": "./src/index.js",
   "scripts": {
     "test": "node ./src/index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rravencode/url-sniper.git"
+    "url": "git+https://github.com/rravencode/url-guard.git"
   },
   "keywords": [
     "vanity",
@@ -18,9 +18,9 @@
   "author": "romanwashere, iqo",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rravencode/url-sniper/issues"
+    "url": "https://github.com/rravencode/url-guard/issues"
   },
-  "homepage": "https://github.com/rravencode/url-sniper#readme",
+  "homepage": "https://github.com/rravencode/url-guard#readme",
   "dependencies": {
     "discord.js": "^14.11.0",
     "vcord.js": "^1.0.0"
