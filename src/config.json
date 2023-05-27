@@ -1,0 +1,11 @@
+{
+    "discord": {
+        "clientToken": "kullanıcı token",
+        "clientId": "kullanıcı id",
+        "guildId": "sunucu id",
+        "vanityCode": "korunacak url"
+    },
+    "client": {
+        "token": "bot token"
+    }
+}
